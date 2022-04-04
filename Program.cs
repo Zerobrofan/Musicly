@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Abdallah_Amir_s_Project
+namespace MusiclyProject
 {
     static class Program
     {
