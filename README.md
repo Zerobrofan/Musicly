@@ -19,7 +19,8 @@ Secondly, run the app in Visual Studio. The application window'll open just like
 From here click the "Select Songs" button. You'll be prompted to choose one or multiple .mp3 or .wav files.
   
 Do **NOT** choose any other file format.  
-Although you can, trying to play any other file format will result in a crash as I'll discuss later on. For now just stick to those two.  
+Although you can, trying to play any other file format will result in a crash as I'll discuss later on.  
+For now just stick to those two.  
 
 ![4](https://user-images.githubusercontent.com/100843256/193441649-c337bece-b56c-4632-b2b4-560a2e0d9c7c.PNG)
 
