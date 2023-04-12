@@ -1,4 +1,4 @@
-# Musicly
+# Musicly - Desktop Music Player
 <img src="https://user-images.githubusercontent.com/100843256/193441326-84a5e6a8-6895-47ed-9e2a-33b6df0d4fdd.png" width="500">
 
 Musicly is an mp3 player interface created with Visual Studio 2019, C# and [NAudio](https://github.com/naudio/NAudio).
