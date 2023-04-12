@@ -7,7 +7,7 @@ Musicly is an mp3 player interface created with Visual Studio 2019, C# and [NAud
 - Visual Studio 2019
 - C#
 
-## How To Use
+## How To Use:
 Firstly, you'll need to install Visual Studio from [here](https://visualstudio.microsoft.com/vs/).  
 
 The app has NO setup, so this is a Visual Studio project you're gonna run here.  
@@ -32,7 +32,15 @@ After selecting your music tracks, simply choose the track you want to play from
 
 The player has the most basic mp3 player features including a loop button which, if checked, will loop the music track over and over.  
 
-<img src="https://user-images.githubusercontent.com/100843256/193441877-a4549099-b4fb-4b0d-b1ef-8ebaabfe4fdc.PNG" width="700">  
+<img src="https://user-images.githubusercontent.com/100843256/193441877-a4549099-b4fb-4b0d-b1ef-8ebaabfe4fdc.PNG" width="700">
+
+---
+
+## Example Video:
+
+[Check it out here!](https://www.youtube.com/watch?v=BgAz4PuyPKI&ab_channel=Zerobrofan)
+
+---
 
 ## Known issues
 - If a file that isn't audio is played using the previous or next buttons, the program will crash!
