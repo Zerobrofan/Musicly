@@ -1,7 +1,7 @@
 # 🎵 Musicly - Desktop Music Player
 <div align="center" id="top">
-  <img src="https://user-images.githubusercontent.com/100843256/193441326-84a5e6a8-6895-47ed-9e2a-33b6df0d4fdd.png" width="900" alt="StudyMe">
-  
+  <img src="https://github.com/Zerobrofan/Musicly/assets/100843256/b88be45d-981e-427e-859a-d784130492a0" width="800" alt="StudyMe">
+<br><br>
   <a href="https://www.youtube.com/watch?v=BgAz4PuyPKI&ab_channel=Zerobrofan">🎥 View Demo Video Here -></a>
 </div>
 
